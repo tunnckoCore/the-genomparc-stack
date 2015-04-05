@@ -6,14 +6,14 @@ Initially it was GNOMEARC, but this abbr not includes PHP (that i want in stack)
 **G**it, (**E**)nginx, **N**ode.js, M**o**ngoDB, **M**ATE desktop, **P**HP, **A**mbiance Ubuntu theme, **R**uby, Ar**c**h Linux
 
 #### The software
-- Git v2.3.0
-- Nginx v1.7.10
-- Node.js v0.12 (or IO.js v1.1.0)
-- MongoDB v2.6.7
-- MATE Desktop v1.8.0
-- PHP v5.6.5
-- Ruby v2.2.0
-- ArchLinux 2015.02.01
+- Git v2.3.0+
+- Nginx v1.7.10+
+- Node.js / IO.js
+- MongoDB v2.6.7+
+- MATE Desktop v1.8.0+
+- PHP v5.6.5+
+- Ruby v2.2.0+
+- ArchLinux 2015.04.01+
 
 #### The idea
 - Build it
